@@ -13,7 +13,8 @@
     "description": "Boule douce, parfaite pour les pizzas",
     "price": "2.6 DT/100g",
     "image": "./products/motza.jpg",
-    "category": "Fromages Frais"
+    "category": "Fromages Frais",
+    "badge": "Frais du jour"
   },
   {
     "id": "mozzarella-cerise",
@@ -61,7 +62,8 @@
     "description": "Affiné avec un mélange de 6 épices",
     "price": "2.8 DT/100g",
     "image": "./products/6epice.jpg",
-    "category": "Fromages Affinés"
+    "category": "Fromages Affinés",
+    "badge": "Coup de cœur"
   },
   {
     "id": "sicilien-ail-persil",

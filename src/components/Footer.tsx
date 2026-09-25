@@ -1,8 +1,12 @@
 import React from 'react'
 import { Logo } from './Logo'
-import { Phone, MapPin } from 'lucide-react'
+import { Phone, MapPin, QrCode } from 'lucide-react'
 
-export const Footer: React.FC = () => (
+interface FooterProps {
+  onOpenQrCode?: () => void
+}
+
+export const Footer: React.FC<FooterProps> = ({ onOpenQrCode }) => (
   <footer className="bg-charcoal-slate text-ivory-cheese">
     <div className="max-w-6xl mx-auto px-5 py-14">
       <div className="grid grid-cols-1 md:grid-cols-3 gap-10">
@@ -12,6 +16,16 @@ export const Footer: React.FC = () => (
           <p className="text-sm text-muted-olive leading-relaxed max-w-xs">
             Fromages artisanaux frais, fabriqués chaque jour avec du lait 100% biologique.
           </p>
+          {onOpenQrCode && (
+            <button
+              type="button"
+              onClick={onOpenQrCode}
+              className="inline-flex items-center gap-2 px-3 py-1.5 text-xs rounded-sm border border-ivory-cheese/20 hover:border-ivory-cheese/50 text-ivory-cheese hover:text-white transition-colors cursor-pointer bg-white/5"
+            >
+              <QrCode className="w-3.5 h-3.5 text-roasted-crimson" />
+              <span>Afficher le QR Code du Menu</span>
+            </button>
+          )}
         </div>
 
         {/* Contact */}
