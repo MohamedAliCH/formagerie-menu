@@ -11,7 +11,7 @@
     "id": "mozzarella",
     "name": "Mozzarella",
     "description": "Boule douce, parfaite pour les pizzas",
-    "price": "2.4 DT/100g",
+    "price": "2.6 DT/100g",
     "image": "./products/motza.jpg",
     "category": "Fromages Frais"
   },
@@ -107,7 +107,7 @@
     "id": "parmesan",
     "name": "Parmesan",
     "description": "Pâte dure, idéal pour plats cuisinés",
-    "price": "4 DT/100g",
+    "price": "4.2 DT/100g",
     "image": "./products/par.jpg",
     "category": "Fromages Affinés"
   },
@@ -131,7 +131,7 @@
     "id": "lben",
     "name": "Lben",
     "description": "Boisson lactée traditionnelle fermentée",
-    "price": "2.6 DT",
+    "price": "3 DT",
     "image": "./products/lben.jpg",
     "category": "Produits Laitiers"
   },
