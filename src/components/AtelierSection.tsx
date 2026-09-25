@@ -2,7 +2,7 @@ import React from 'react'
 import { MapPin, Navigation, Phone, Clock, Sparkles } from 'lucide-react'
 
 export const AtelierSection: React.FC = () => {
-  const mapsUrl = 'https://maps.app.goo.gl/p4U5EfwFZCXnP2dG9'
+  const mapsUrl = 'https://maps.app.goo.gl/W9wBxuc6uX3oru9u8'
   // Exact Google Maps place embed for Fromagerie ilef (CID: 0x12fdf5439aa7b1d1:0xdd1e918a248ad052)
   const embedUrl = 'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3238.3228864455655!2d10.5852376!3d35.7428678!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12fdf5439aa7b1d1%3A0xdd1e918a248ad052!2sFromagerie%20ilef!5e0!3m2!1sfr!2stn!4v1711200000000'
 
@@ -38,7 +38,10 @@ export const AtelierSection: React.FC = () => {
                   <p className="text-xs text-muted-olive font-sans uppercase tracking-wider mt-0.5">
                     Atelier artisanal · Lait 100% Bio
                   </p>
-                  <p className="text-sm text-tile-pattern mt-2 leading-relaxed">
+                  <p className="text-sm font-medium text-charcoal-slate mt-2 leading-relaxed">
+                    Msaken, Gouvernorat de Sousse, Tunisie (4070)
+                  </p>
+                  <p className="text-xs text-tile-pattern mt-0.5">
                     Atelier de fabrication et point de retrait direct.
                   </p>
                 </div>

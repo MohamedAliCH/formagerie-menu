@@ -34,13 +34,13 @@ export const Footer: React.FC = () => (
               WhatsApp
             </a>
             <a
-              href="https://maps.app.goo.gl/p4U5EfwFZCXnP2dG9"
+              href="https://maps.app.goo.gl/W9wBxuc6uX3oru9u8"
               target="_blank"
               rel="noreferrer"
               className="flex items-center gap-2 text-ivory-cheese hover:text-roasted-crimson transition-colors group"
             >
               <MapPin className="w-3.5 h-3.5 text-roasted-crimson group-hover:scale-110 transition-transform shrink-0" />
-              <span>Voir l'atelier sur Google Maps ↗</span>
+              <span>Msaken, Sousse · Voir sur Google Maps ↗</span>
             </a>
           </div>
         </div>
