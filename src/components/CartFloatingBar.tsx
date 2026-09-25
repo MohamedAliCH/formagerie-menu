@@ -56,7 +56,7 @@ export const CartFloatingBar: React.FC = () => {
                 <div key={product.id} className="pt-4 first:pt-0 flex items-center gap-4">
                   <img
                     src={product.image}
-                    alt={product.name}
+                    alt={`${product.name} — Fromagerie Ilef`}
                     className="w-14 h-14 object-cover rounded-md border border-charcoal-slate/8 shrink-0 bg-ivory-cheese"
                   />
                   <div className="grow min-w-0">

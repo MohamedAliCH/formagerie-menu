@@ -167,7 +167,7 @@ export const ProductCatalog: React.FC = () => {
                       )}
                       <img
                         src={product.image}
-                        alt={product.name}
+                        alt={`${product.name} artisanal — Fromagerie Ilef Msaken Sousse`}
                         className="product-img w-full h-full object-cover"
                         loading="lazy"
                       />
