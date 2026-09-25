@@ -20,7 +20,7 @@
     "id": "mozzarella-cerise",
     "name": "Mozzarella Cerise",
     "description": "Mini billes pour salades et apéritifs",
-    "price": "3.2 DT/100g",
+    "price": "3.5 DT/100g",
     "image": "./products/ceurise.jpg",
     "category": "Fromages Frais"
   },
@@ -54,7 +54,7 @@
     "description": "Fromage traditionnel sicilien affiné",
     "price": "2.7 DT/100g",
     "image": "./products/sc.jpg",
-    "category": "Fromages Affinés"
+    "category": "Fromages Frais"
   },
   {
     "id": "sicilien-6-epices",
@@ -62,7 +62,7 @@
     "description": "Affiné avec un mélange de 6 épices",
     "price": "2.8 DT/100g",
     "image": "./products/6epice.jpg",
-    "category": "Fromages Affinés",
+    "category": "Fromages Frais",
     "badge": "Coup de cœur"
   },
   {
@@ -71,7 +71,7 @@
     "description": "Affiné avec du persil et de l'ail",
     "price": "2.8 DT/100g",
     "image": "./products/sc-persi.jpg",
-    "category": "Fromages Affinés"
+    "category": "Fromages Frais"
   },
   {
     "id": "4-fromages",
@@ -79,7 +79,7 @@
     "description": "Mélange fondant de fromages classiques",
     "price": "3 DT/100g",
     "image": "./products/4formage.jpg",
-    "category": "Fromages Affinés"
+    "category": "Fromages Frais"
   },
   {
     "id": "gouda",
@@ -103,7 +103,7 @@
     "description": "Pâte semi-dure, idéal pour griller",
     "price": "3 DT/100g",
     "image": "./products/haloumi.jpg",
-    "category": "Fromages Affinés"
+    "category": "Fromages Frais"
   },
   {
     "id": "parmesan",
