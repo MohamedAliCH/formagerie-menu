@@ -1,0 +1,154 @@
+[
+  {
+    "id": "ricotta",
+    "name": "Ricotta",
+    "description": "Fromage italien frais et crémeux",
+    "price": "1.2 DT/100g",
+    "image": "./products/ricotta.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "mozzarella",
+    "name": "Mozzarella",
+    "description": "Boule douce, parfaite pour les pizzas",
+    "price": "2.4 DT/100g",
+    "image": "./products/motza.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "mozzarella-cerise",
+    "name": "Mozzarella Cerise",
+    "description": "Mini billes pour salades et apéritifs",
+    "price": "3.2 DT/100g",
+    "image": "./products/ceurise.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "mozzarella-farcie",
+    "name": "Mozzarella Farcie",
+    "description": "Fromage frais crémeux, farcie aux choix",
+    "price": "3.5 DT/100g",
+    "image": "./products/farsi.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "fraidoux",
+    "name": "Fraidoux",
+    "description": "Fromage frais crémeux, idéal pour tartines",
+    "price": "3.5 DT/250g",
+    "image": "./products/fraidou.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "cube-salade",
+    "name": "Cube Salade",
+    "description": "Fromage doux, parfait pour les salades",
+    "price": "3 DT",
+    "image": "./products/cube.jpg",
+    "category": "Fromages Frais"
+  },
+  {
+    "id": "sicilien",
+    "name": "Sicilien",
+    "description": "Fromage traditionnel sicilien affiné",
+    "price": "2.7 DT/100g",
+    "image": "./products/sc.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "sicilien-6-epices",
+    "name": "Sicilien 6 Épices",
+    "description": "Affiné avec un mélange de 6 épices",
+    "price": "2.8 DT/100g",
+    "image": "./products/6epice.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "sicilien-ail-persil",
+    "name": "Sicilien Ail & Persil",
+    "description": "Affiné avec du persil et de l'ail",
+    "price": "2.8 DT/100g",
+    "image": "./products/sc-persi.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "4-fromages",
+    "name": "4 Fromages",
+    "description": "Mélange fondant de fromages classiques",
+    "price": "3 DT/100g",
+    "image": "./products/4formage.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "gouda",
+    "name": "Gouda",
+    "description": "Fromage doux à pâte pressée",
+    "price": "3.8 DT/100g",
+    "image": "./products/gouda.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "edam",
+    "name": "Edam",
+    "description": "Rond et fruité, à croûte rouge",
+    "price": "3.8 DT/100g",
+    "image": "./products/edame.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "halloumi",
+    "name": "Halloumi",
+    "description": "Pâte semi-dure, idéal pour griller",
+    "price": "3 DT/100g",
+    "image": "./products/haloumi.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "parmesan",
+    "name": "Parmesan",
+    "description": "Pâte dure, idéal pour plats cuisinés",
+    "price": "4 DT/100g",
+    "image": "./products/par.jpg",
+    "category": "Fromages Affinés"
+  },
+  {
+    "id": "yogurt",
+    "name": "Yogurt",
+    "description": "Yaourt nature frais et crémeux",
+    "price": "4.7 DT",
+    "image": "./products/yogf.jpg",
+    "category": "Produits Laitiers"
+  },
+  {
+    "id": "yogurt-a-boire",
+    "name": "Yogurt à Boire",
+    "description": "Yaourt à boire, frais et crémeux",
+    "price": "4.5 DT",
+    "image": "./products/aboire.jpg",
+    "category": "Produits Laitiers"
+  },
+  {
+    "id": "lben",
+    "name": "Lben",
+    "description": "Boisson lactée traditionnelle fermentée",
+    "price": "2.6 DT",
+    "image": "./products/lben.jpg",
+    "category": "Produits Laitiers"
+  },
+  {
+    "id": "rayeb",
+    "name": "Rayeb",
+    "description": "Lait caillé frais et rafraîchissant",
+    "price": "3 DT",
+    "image": "./products/rayb.jpg",
+    "category": "Produits Laitiers"
+  },
+  {
+    "id": "beurre",
+    "name": "Beurre",
+    "description": "Beurre doux et crémeux",
+    "price": "3 DT/100g",
+    "image": "./products/br.jpg",
+    "category": "Produits Laitiers"
+  }
+]
