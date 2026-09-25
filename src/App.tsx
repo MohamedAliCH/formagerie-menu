@@ -7,9 +7,9 @@ import { Footer } from './components/Footer'
 import { WhatsAppFloat } from './components/WhatsAppFloat'
 
 const App: React.FC = () => (
-  <div className="min-h-screen bg-[#F5F5F0] text-[#212121] font-sans flex flex-col">
+  <div className="min-h-screen bg-ivory-cheese text-charcoal-slate font-sans flex flex-col">
     <Header />
-    <main className="flex-grow">
+    <main className="grow">
       <Hero />
       <ProductCatalog />
       <AtelierSection />
